@@ -138,7 +138,7 @@ while flag.lower() == 'y':
                     #s = "{:^12}{:^12}{:^12}{:^12}".format(food_names,qunatitys,prize,Totals)
                     #file.write(
                     #str("\n" + str(food_name[Tlist[i]]) + "\t\t\t" + str(qun[i]) + "\t\t\t\t " + str(food[Tlist[i]]) + "\t\t\t\t " + str(Total)))
-                    file.write(str("\n{:^12}\t{:^12}\t\t{:^12}\t{:^12}".format(food_names,qunatitys,prize,Totals)))
+                    file.write(str("\n{:^12}\t{:^12}\t{:^12}\t{:^12}".format(food_names,qunatitys,prize,Totals)))
                 
                 
                 
